@@ -2,7 +2,7 @@
 
 - [Project Title](#Project-Title)
 - [Descritpion](#Descritpion)
-- [How to Run Software](#How-to-Run-Software)
+- [How to Join Data Sets](#How-to-Join-Data-Sets)
 - [Files Used](#Files-Used)
 - [Additional Details](#Additional-Details)
 
