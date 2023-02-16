@@ -2,9 +2,9 @@
 
 - [Project Title](#Project-Title)
 - [Descritpion](#Descritpion)
-- [How to Join Data Sets](#How-to-Join-Data-Sets)
 - [Files Used](#Files-Used)
-- [Additional Details](#Additional-Details)
+- [How to Join Data Sets](#How-to-Join-Data-Sets)
+- [Finished Product](#Finished-Product)
 
 ## Project Title
 
@@ -12,3 +12,13 @@
 
 ## Decrisption
 
+Used **IDEA Software** to successfully merge two Excel files that were previously cleaned and downloaded.
+
+## Files Used
+
+- Accounts Payable.xls
+- Vendor.xls
+
+## How to Join Data Sets
+
+1. 
