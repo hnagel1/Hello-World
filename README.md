@@ -1,4 +1,4 @@
-### Table of Contents
+# Table of Contents
 
 - [Project Title](#Project-Title)
 - [Descritpion](#Descritpion)
@@ -6,5 +6,5 @@
 - [Files Used](#Files-Used)
 - [Additional Details](#Additional-Details)
 
-# Project Title
+## Project Title
 
